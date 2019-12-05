@@ -216,8 +216,8 @@
     "TT2": "Dung lượng: 10000mAh / 37Wh",
     "TT3": "Công nghệ sạc nhanh: Power Delivery, Quick Charge 3.0",
     "TT4": "Sạc nhanh 2 chiều Input và Output",
-    "Image1": "./PhuKien/PinSac/ImagesPin/Pin1.jpg",
-    "Image2": "./PhuKien/PinSac/ImagesPin/Pin1.1.jpg"
+    "Image1": "./PhuKien/PinSac/ImagesPin/pin1.jpg",
+    "Image2": "./PhuKien/PinSac/ImagesPin/pin1.1.jpg"
   },
   {
     "ID": 9,
@@ -239,10 +239,10 @@
     "TT5": "Sạc nhanh: QC 3.0",
     "TT6": "Tích hợp 2 cổng USB giúp sạc 2 thiết bị cùng lúc",
     "TT7": "Tích hợp nút on/ off",
-    "Image1": "./PhuKien/PinSac/ImagesPin/Pin2.jpg",
-    "Image2": "./PhuKien/PinSac/ImagesPin/Pin2.1.jpg",
-    "Image3": "./PhuKien/PinSac/ImagesPin/Pin2.2.jpg",
-    "Image4": "./PhuKien/PinSac/ImagesPin/Pin2.3.jpg"
+    "Image1": "./PhuKien/PinSac/ImagesPin/pin2.jpg",
+    "Image2": "./PhuKien/PinSac/ImagesPin/pin2.1.jpg",
+    "Image3": "./PhuKien/PinSac/ImagesPin/pin2.2.jpg",
+    "Image4": "./PhuKien/PinSac/ImagesPin/pin2.3.jpg"
   },
 
   {
@@ -265,10 +265,10 @@
     "TT5": "Output Quick Charge: 5V/3.0A, 9V/2.0A, 12V/1.5A",
     "TT6": "Tích hợp công nghệ Quick Charge Qualcomm 3.0",
     "TT7": "Đèn LED thông báo tình trạng pin",
-    "Image1": "./PhuKien/PinSac/ImagesPin/Pin3.jpg",
-    "Image2": "./PhuKien/PinSac/ImagesPin/Pin3.1.jpg",
-    "Image3": "./PhuKien/PinSac/ImagesPin/Pin3.2.jpg",
-    "Image4": "./PhuKien/PinSac/ImagesPin/Pin3.3.jpg"
+    "Image1": "./PhuKien/PinSac/ImagesPin/pin3.jpg",
+    "Image2": "./PhuKien/PinSac/ImagesPin/pin3.1.jpg",
+    "Image3": "./PhuKien/PinSac/ImagesPin/pin3.2.jpg",
+    "Image4": "./PhuKien/PinSac/ImagesPin/pin3.3.jpg"
   },
   {
     "ID": 11,
@@ -288,10 +288,10 @@
     "TT3": "Lõi pin Lithium Polymer cao cấp",
     "TT4": "Tự động điều chỉnh dòng điện thông minh",
     "TT5": "2 cổng ra, sạc cùng lúc 2 thiết bị",
-    "Image1": "./PhuKien/PinSac/ImagesPin/Pin4.jpg",
-    "Image2": "./PhuKien/PinSac/ImagesPin/Pin4.1.jpg",
-    "Image3": "./PhuKien/PinSac/ImagesPin/Pin4.2.jpg",
-    "Image4": "./PhuKien/PinSac/ImagesPin/Pin4.3.jpg"
+    "Image1": "./PhuKien/PinSac/ImagesPin/pin4.jpg",
+    "Image2": "./PhuKien/PinSac/ImagesPin/pin4.1.jpg",
+    "Image3": "./PhuKien/PinSac/ImagesPin/pin4.2.jpg",
+    "Image4": "./PhuKien/PinSac/ImagesPin/pin4.3.jpg"
   },
   {
     "ID": 12,

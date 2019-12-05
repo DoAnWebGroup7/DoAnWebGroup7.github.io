@@ -132,7 +132,7 @@
     "XXThuongHieu3": "Trung Quốc",
     "sp1": {
       "Id1": 8,
-      "Image1": "./PhuKien/PinSac/ImagesPin/Pin1.jpg",
+      "Image1": "./PhuKien/PinSac/ImagesPin/pin1.jpg",
       "Ten1": " Pin Sạc Dự Phòng Tích Hợp Cổng USB ",
       "Gia1": "690.000",
       "TietKiem1": "-22%",
@@ -142,7 +142,7 @@
     },
     "sp2": {
       "Id1": 9,
-      "Image1": "./PhuKien/PinSac/ImagesPin/Pin2.jpg",
+      "Image1": "./PhuKien/PinSac/ImagesPin/pin2.jpg",
       "Ten1": "  Pin Sạc Dự Phòng Xiaomi Mi 2C 20.000 mAh...",
       "Gia1": "428.000 ",
       "TietKiem1": "-26%",
@@ -151,7 +151,7 @@
     },
     "sp3": {
       "Id1": 10,
-      "Image1": "./PhuKien/PinSac/ImagesPin/Pin3.jpg",
+      "Image1": "./PhuKien/PinSac/ImagesPin/pin3.jpg",
       "Ten1": " Pin Sạc Dự Phòng Tích Hợp Không Dây... ",
       "Gia1": "800.000 ",
       "TietKiem1": "-11%",
@@ -160,7 +160,7 @@
     },
     "sp4": {
       "Id1": 11,
-      "Image1": "./PhuKien/PinSac/ImagesPin/Pin4.jpg",
+      "Image1": "./PhuKien/PinSac/ImagesPin/pin4.jpg",
       "Ten1": " Pin Sạc Dự Phòng Xiaomi Gen 2S...",
       "Gia1": "309.000 ",
       "TietKiem1": "-21%",

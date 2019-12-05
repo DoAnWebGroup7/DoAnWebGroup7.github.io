@@ -243,7 +243,7 @@
     "XXThuongHieu3": "Trung Quốc",
     "sp1": {
       "Id1": 16,
-      "Image1": "./PhuKien/Loa/ImagesLoa/Loa1.jpg",
+      "Image1": "./PhuKien/Loa/ImagesLoa/loa1.jpg",
       "Ten1": " Loa Vi Tính Microtek MT-120 2.0 (6W)",
       "Gia1": "85.000",
       "TietKiem1": "-29%",
@@ -252,7 +252,7 @@
     },
     "sp2": {
       "Id1": 17,
-      "Image1": "./PhuKien/Loa/ImagesLoa/Loa2.jpg",
+      "Image1": "./PhuKien/Loa/ImagesLoa/loa2.jpg",
       "Ten1": " Bộ 3 Loa Máy Tính USB D205",
       "Gia1": "229.000",
       "TietKiem1": "-43%",
@@ -261,7 +261,7 @@
     },
     "sp3": {
       "Id1": 18,
-      "Image1": "./PhuKien/Loa/ImagesLoa/Loa3.jpg",
+      "Image1": "./PhuKien/Loa/ImagesLoa/loa3.jpg",
       "Ten1": " Loa Bluetooth Mini Speaker B2",
       "Gia1": "48.863 ",
       "TietKiem1": "-40%",
@@ -270,7 +270,7 @@
     },
     "sp4": {
       "Id1": 19,
-      "Image1": "./PhuKien/Loa/ImagesLoa/Loa3.jpg",
+      "Image1": "./PhuKien/Loa/ImagesLoa/loa3.jpg",
       "Ten1": " Tai nghe Samsung Galaxy AKG S10",
       "Gia1": "216.996 ",
       "TietKiem1": "-70%",

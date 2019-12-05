@@ -12,7 +12,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js">
     </script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-    <script src="/Angular.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="./Angular.min.js"></script>
     <link type="text/css" rel="stylesheet" href="CSS/HomePage.CSS" />
     <style type="text/css">
         a:hover {
@@ -145,11 +146,13 @@
                                 <a class="nav-link " href="#"><i class="fas fa-user" style="color:orange " id="dropdownMenu3"></i>&nbsp;Đăng nhập</a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenu3" style="width:140%">
                                     <li class="dropdown-item"><button type="button" class="btn btn-warning" style="width:100%;margin-top:5px" data-toggle="modal" data-target="#myModal">Đăng nhập</button></li>
+                                                                                                                               <!--toogle: lệnh mở một pop-up, target:dùng để xát định pop-up nào được mở-->
                                     <li class="dropdown-item"><button class="btn btn-warning" style="width:100%;margin-top:5px; margin-bottom:0px" data-target="#myModal" data-toggle="modal">Đăng ký</button></li>
                                     <li class="dropdown-item" style="margin-top:5px;margin-bottom:-17px">
                                         <div class="input-group mb-3">
                                             <div class="input-group-prepend">
                                                 <span class="input-group-text" style="background-color:#3B5998;color:#ffffff; width:47px"><i class="fa fa-facebook-f"></i></span>
+                                                <!--Lớp định dạng kiểu văn bản-->
                                             </div>
                                             <button class="form-control" style="background-color:#3B5998;color:#ffffff">Đăng nhập bằng Facebook</button>
                                         </div>
@@ -686,8 +689,9 @@
 
     </div>
 
-    <div class="modal fade popup " id="myModal">
+    <div class="modal fade popup " id="myModal">   <!--fade làm mờ-->
         <div class="modal-dialog">
+            <!--dialog là kích thước của modal(modal có hai kích thước là dialog hà lg và -sm)-->
             <div class="modal-content">
                 <div class="modal-header">
                     <a href="./SignInnew.html" target="Upload" style="text-decoration:none">Đăng nhập &nbsp; &nbsp; &nbsp;</a>
@@ -703,6 +707,7 @@
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                <!--dismiss: cũng là một loại đóng pop-up-->
             </div>
         </div>
     </div>
